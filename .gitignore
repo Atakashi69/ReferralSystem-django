@@ -1,0 +1,9 @@
+.idea/
+venv/
+.env
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
